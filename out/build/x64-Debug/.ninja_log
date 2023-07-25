@@ -1,0 +1,11 @@
+# ninja log v5
+1	338	7119666950634374	tst1_autogen/timestamp	3ff089b742078cd2
+339	1206	7119666960291772	CMakeFiles/tst1.dir/tst1_autogen/mocs_compilation.cpp.obj	3aa42924d3796e8f
+347	5830	7119667006293809	CMakeFiles/tst1.dir/mainwindow.cpp.obj	a7a20000712735a5
+343	1218	7119666960311761	CMakeFiles/tst1.dir/main.cpp.obj	3bb288a77fb6aa68
+16	269	7119669034921168	tst1_autogen/timestamp	3ff089b742078cd2
+270	958	7119669042726988	CMakeFiles/tst1.dir/tst1_autogen/mocs_compilation.cpp.obj	3aa42924d3796e8f
+275	5015	7119669083139183	CMakeFiles/tst1.dir/mainwindow.cpp.obj	a7a20000712735a5
+15	256	7119670503865775	tst1_autogen/timestamp	3ff089b742078cd2
+256	787	7119670510074844	CMakeFiles/tst1.dir/tst1_autogen/mocs_compilation.cpp.obj	3aa42924d3796e8f
+261	5333	7119670555360887	CMakeFiles/tst1.dir/mainwindow.cpp.obj	a7a20000712735a5

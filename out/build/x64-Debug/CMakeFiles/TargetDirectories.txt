@@ -1,0 +1,5 @@
+D:/data/qtproject/tst1/out/build/x64-Debug/CMakeFiles/tst1.dir
+D:/data/qtproject/tst1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/data/qtproject/tst1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/data/qtproject/tst1/out/build/x64-Debug/CMakeFiles/tst1_autogen_timestamp_deps.dir
+D:/data/qtproject/tst1/out/build/x64-Debug/CMakeFiles/tst1_autogen.dir

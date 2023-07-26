@@ -27,9 +27,9 @@ add_executable(tst1
 )
 
 
-find_package(CGAL REQUIRED)
+find_package(CGAL REQUIRED COMPONENTS Qt5)
 message(STATUS "Found CGAL v${CGAL_VERSION}. Include dirs: ${CGAL_INCLUDE_DIRS}")
-target_link_libraries(tst1 PUBLIC CGAL::CGAL)
+target_link_libraries(tst1 PUBLIC CGAL::CGAL_Qt5)
 
 find_package(Qt5 REQUIRED Widgets)
 target_link_libraries(tst1 PUBLIC Qt5::Widgets)
